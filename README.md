@@ -38,11 +38,11 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 
 <table>
   <tr>
-    <td rowspan="2" style="padding: 0;" align="center"><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn"/></picture></td>
-    <td style="padding: 0;" align="center"><a href="https://stackoverflow.com/users/22141420/"><img src="https://stackoverflow.com/users/flair/22141420.png?theme=clean"/></a></td>
+    <td rowspan="2" align="center"><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn"/></picture></td>
+    <td align="center"><a href="https://stackoverflow.com/users/22141420/"><img src="https://stackoverflow.com/users/flair/22141420.png?theme=clean"/></a></td>
   </tr>
   <tr>
-    <td style="padding: 0;" align="center"><picture><img src="https://github-readme-stats.vercel.app/api?username=brendanlynn"/></picture></td>
+    <td align="center"><picture><img src="https://github-readme-stats.vercel.app/api?username=brendanlynn"/></picture></td>
   </tr>
 </table>
 

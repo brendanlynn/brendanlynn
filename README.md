@@ -2,7 +2,7 @@
 
 Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.org). I also have a Stack Overflow account, [here](https://stackoverflow.com/users/22141420/).
 
-## :rocket: Languages and Technological Experience
+## :rocket: Languages; Technological Experience; Platforms; Communities
 
 ### :hammer_and_wrench: Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,12 +16,16 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Batch Script](https://img.shields.io/badge/batch_script-%2300f.svg?style=for-the-badge&logo=windows&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
 ### :thumbsup: Intermediate With
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,8 +36,8 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 
 ## :bar_chart: Stats
 
-[![GitHub stats.](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn)
 [![Language stats.](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn)](https://github.com/brendanlynn)
+[![GitHub stats.](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn)
 
 ## :star2: Current (Public) Projects
 

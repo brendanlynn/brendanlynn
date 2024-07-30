@@ -13,16 +13,17 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Batch Script](https://img.shields.io/badge/batch_script-%2300f.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Starting to Learn
+### OK With
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-
-### Limited Past Experience
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -31,7 +32,8 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 
 ## 📈 Stats
 
-[![GitHub stats.](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn) [![Language stats.](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn&layout=compact)](https://github.com/brendanlynn)
+[![GitHub stats.](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn)
+[![Language stats.](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn)](https://github.com/brendanlynn)
 
 ## Current (Public) Projects
 

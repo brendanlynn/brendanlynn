@@ -2,7 +2,7 @@
 
 Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.org). I also have a Stack Overflow account, [here](https://stackoverflow.com/users/22141420/).
 
-## :rocket: Languages; Technological Experience; Platforms; Communities
+## :rocket: Proficiencies
 
 ### :hammer_and_wrench: Skills
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)

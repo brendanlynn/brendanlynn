@@ -36,16 +36,16 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 
 ## :bar_chart: Stats
 
-[![Language stats.](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn)](https://github.com/brendanlynn)
-[![GitHub stats.](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn)
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn)](https://github.com/brendanlynn)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn)
 
 ## :star2: Current (Public) Projects
 
 I like to work on my own personal projects. Here are a couple of my favorite public ones:
 
-* [brandom](https://github.com/brendanlynn/brandom), a CLI for random number generation I developed for my own personal use and wanted to share. It was the first GitHub repository I ever made. brandom is currently on v1.1.0.
-* [BSerializer](https://github.com/brendanlynn/BSerializer), a library for C++ serialization and deserialization. This is one of the repositories I am currrently working on. BSerializer is currently on v1.0.0.
-* [BrendanCUDA](https://github.com/brendanlynn/BrendanCUDA), a huge general-purpose library for GPGPU in C++ CUDA. This is my second-biggest library by far, and the repository I am currently working on the most. However, unlike the previous two repositories, BrendanCUDA is by far not ready for release yet. The bigger the repository, the longer it will take, especially when you only have one pair of hands.
+* :star: [brandom](https://github.com/brendanlynn/brandom), a CLI for random number generation I developed for my own personal use and wanted to share. It was the first GitHub repository I ever made. brandom is currently on v1.1.0.
+* :star: [BSerializer](https://github.com/brendanlynn/BSerializer), a library for C++ serialization and deserialization. This is one of the repositories I am currrently working on. BSerializer is currently on v1.0.0.
+* :star: [BrendanCUDA](https://github.com/brendanlynn/BrendanCUDA), a huge general-purpose library for GPGPU in C++ CUDA. This is my second-biggest library by far, and the repository I am currently working on the most. However, unlike the previous two repositories, BrendanCUDA is by far not ready for release yet. The bigger the repository, the longer it will take, especially when you only have one pair of hands.
 
 I also have many other projects I made a long time ago that I uploaded just to showcase my ability. Some of these projects are so old that they were written all the way back when the only programming language I was good at was VB.NET. (I barely remember those days.) Here is an exhaustive list:
 
@@ -54,7 +54,7 @@ I also have many other projects I made a long time ago that I uploaded just to s
 * [Audio to Video Converter](https://github.com/brendanlynn/Audio-to-Video-Converter), a console application for merging an audio file with a image to produce a video with that static image all the way through. I used it back when I was considering making audiobooks for YouTube. I never committed to it. Again, this was before I even knew you _could_ make a .NET CLI tool of your own.
 * [Edge Detector](https://github.com/brendanlynn/Edge-Detector), a desktop application for finding edges in a given image. When building it, I had tried to get the algorithm to run on the GPU, but couldn't find a good way to do that in VB.NET, and so just ran it on the CPU. For that reason, it is incredibly slow, but _works_.
 * [File Shredder](https://github.com/brendanlynn/File-Shredder), a console application for shredding and deleting files. As with no many other things, I made it before I understood how to make .NET CLI tools, and so it is inaccessible from the terminal.
-* [Fireplace](https://github.com/brendanlynn/Fireplace), a console application that displays an updating 2D array of ASCII art that partially mimics the behavior of a fireplace. The ASCII art is colorful. Since the algorithm initializes randomly and evolves randomly, each frame is the first ever seen of that design.
+* :star: [Fireplace](https://github.com/brendanlynn/Fireplace), a console application that displays an updating 2D array of ASCII art that partially mimics the behavior of a fireplace. The ASCII art is colorful. Since the algorithm initializes randomly and evolves randomly, each frame is the first ever seen of that design.
 * [Graphics Console](https://github.com/brendanlynn/Graphics-Console), a console application that was designed to succeed Graphics Designer (mentioned later; the list is in alphabetical order). It displays a console window as well as an accompanying "Display" that shows the user the current state of the graphic. It was made because I could not get the RichTextBox in Graphics Designer to be monospaced. In hindsight, I probably should have just gotten a library with the monospaced console-like component rather than creating a whole new application with inferior functionality.
 * [Graphics Designer](https://github.com/brendanlynn/Graphics-Designer), a desktop appliication that was the predecessor for Graphics Console. It uses an interpreted programming language to draw shapes on the variably-sized canvas. I tried for a very long time to get the RichTextBox the code was entered into to be monospaced, but with no avail. In hindsight, I probably should have just gotten a library with the monospaced console-like component rather than creating a whole new application with inferior functionality.
 * [Hasher](https://github.com/brendanlynn/Hasher), a console application that hashes a string into a number using the C# hasher. It should have been a .NET CLI tool, but I didn't know how to make one back when I made Hasher.

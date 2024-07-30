@@ -36,9 +36,15 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 
 ## :bar_chart: Stats
 
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn)](https://github.com/brendanlynn)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn)
-![StackOverflow stats](https://stackoverflow.com/users/flair/22141420.png?theme=clean)
+<table>
+  <tr>
+    <td rowspan="2" style="padding: 0;" align="center"><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn"/></picture></td>
+    <td style="padding: 0;" align="center"><a href="https://stackoverflow.com/users/22141420/"><img src="https://stackoverflow.com/users/flair/22141420.png?theme=clean"/></a></td>
+  </tr>
+  <tr>
+    <td style="padding: 0;" align="center"><picture><img src="https://github-readme-stats.vercel.app/api?username=brendanlynn"/></picture></td>
+  </tr>
+</table>
 
 ## :star2: Current (Public) Projects
 

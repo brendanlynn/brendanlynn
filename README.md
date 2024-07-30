@@ -75,7 +75,7 @@ I like to work on my own personal projects. Here are a couple of my favorite pub
   ![](https://badgen.net/github/prs/brendanlynn/BrendanCUDA) ![](https://badgen.net/github/open-prs/brendanlynn/BrendanCUDA) ![](https://badgen.net/github/closed-prs/brendanlynn/BrendanCUDA) ![](https://badgen.net/github/merged-prs/brendanlynn/BrendanCUDA)
   ![](https://badgen.net/github/commits/brendanlynn/BrendanCUDA) ![](https://badgen.net/github/last-commit/brendanlynn/BrendanCUDA)
 
-I also have many other projects I made a long time ago that I uploaded just to showcase my ability. Some of these projects are so old that they were written all the way back when the only programming language I was good at was VB.NET. (I barely remember those days.) Here is an exhaustive list:
+I also have many other projects I made a long time ago that I uploaded just to showcase my ability. Some of these projects are so old that they were written all the way back when the only programming language I was good at was VB.NET (I barely remember those days). Here is an exhaustive list:
 
 * [Alphabetical Character Indexer](https://github.com/brendanlynn/Alphabetical-Character-Indexer), a console application that converts an alphabetical character into its index in the alphabet. That is all. Again, some of this stuff was made a _really_ long time ago.
 * [Audio Merger](https://github.com/brendanlynn/Audio-Merger), a console application for merging two audio files of the same format. It was made before I had a grasp on how to make .NET CLI tools, so it can't be called from the terminal. It works by literally appending the contents of one file onto the end of the previous. Again, very simple.

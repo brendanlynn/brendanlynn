@@ -38,6 +38,7 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 
 [![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn)](https://github.com/brendanlynn)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn)
+![StackOverflow stats](https://stackoverflow.com/users/flair/22141420.png?theme=clean)
 
 ## :star2: Current (Public) Projects
 

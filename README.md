@@ -2,9 +2,9 @@
 
 Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.org). I also have a Stack Overflow account, [here](https://stackoverflow.com/users/22141420/).
 
-## Languages and technological experience
+## :rocket: Languages and Technological Experience
 
-### Skills
+### :hammer_and_wrench: Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -21,7 +21,7 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### OK With
+### :thumbsup: Intermediate With
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,12 +30,12 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 Stats
+## :bar_chart: Stats
 
 [![GitHub stats.](https://github-readme-stats.vercel.app/api?username=brendanlynn)](https://github.com/brendanlynn)
 [![Language stats.](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanlynn)](https://github.com/brendanlynn)
 
-## Current (Public) Projects
+## :star2: Current (Public) Projects
 
 I like to work on my own personal projects. Here are a couple of my favorite public ones:
 

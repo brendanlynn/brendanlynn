@@ -9,19 +9,18 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://en.wikipedia.org/wiki/CUDA)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://en.wikipedia.org/wiki/.NET)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language))\
-[![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
-[![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)\
+[![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
+[![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
+[![WinForms](https://img.shields.io/badge/WinForms-FF0000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Forms)\
 [![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/GitHub)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Terminal)
-[![Batch Script](https://img.shields.io/badge/batch_script-00f.svg?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file)
-
+[![Batch Script](https://img.shields.io/badge/batch_script-00f.svg?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file)\
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
 [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://en.wikipedia.org/wiki/Firebase)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_10)
-
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_10)\
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://en.wikipedia.org/wiki/Stack_Overflow)
 
 ### :thumbsup: Some Experience With/OK With

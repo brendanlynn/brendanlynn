@@ -5,19 +5,19 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 ## :hammer_and_wrench: Skills
 
 ### :rocket: Proficiencies/Familiarities
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://en.wikipedia.org/wiki/CUDA)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://en.wikipedia.org/wiki/.NET)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language))\
 [![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
 [![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)\
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
+[![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/GitHub)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
-[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Terminal)
-[![Batch Script](https://img.shields.io/badge/batch_script-%2300f.svg?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file)
+[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Terminal)
+[![Batch Script](https://img.shields.io/badge/batch_script-00f.svg?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file)
 
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
 [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://en.wikipedia.org/wiki/Firebase)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_10)
@@ -26,12 +26,12 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 
 ### :thumbsup: Some Experience With/OK With
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
-[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://en.wikipedia.org/wiki/PowerShell)
-[![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](https://en.wikipedia.org/wiki/YAML)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://en.wikipedia.org/wiki/PowerShell)
+[![YAML](https://img.shields.io/badge/yaml-ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](https://en.wikipedia.org/wiki/YAML)
+[![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
+[![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
+[![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 
 ## :bar_chart: Stats
 

@@ -32,7 +32,7 @@ Hi. My name is Brendan Lynn. I have a website, [here](https://www.brendanlynn.or
 [![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
 [![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 
-## :bar_chart: Stats (Excludes Private Repositories)
+## :bar_chart: Stats
 
 <table>
   <tr>
